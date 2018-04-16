@@ -3,8 +3,11 @@
 	padding: 0;
 }
 header, footer {
-	background-color: red;
+	background-color: #92a8d1;
 	height: 100px;
+}
+header {
+	text-align: "right"
 }
 main {
 	height: 85vh;
