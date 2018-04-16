@@ -4,11 +4,15 @@
 }
 header, footer {
 	background-color: #92a8d1;
-	height: 100px;
 }
 header {
-	text-align: "right"
+	height: 100px;
+	text-align: right;
 }
 main {
-	height: 85vh;
+	height: 80vh;
+}
+footer {
+	height: 50px;
+	text-align: center;
 }
